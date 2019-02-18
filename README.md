@@ -12,8 +12,6 @@ public class SomeExternalModel{
 
 ## classic
 
----
-
 ```c#
 public class SomeExternalModelExt:{
     public SomeExternalModel Model {get;set;}
@@ -39,8 +37,6 @@ public class SomeExternalModelExt:SomeExternalModel{
 ```
 
 ## Solution
-
----
 
 ```c#
 //now model
